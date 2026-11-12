@@ -1,0 +1,10 @@
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\bin\Debug\photo.jpg
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\bin\Debug\Kursova17.exe.config
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\bin\Debug\Kursova17.exe
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\bin\Debug\Kursova17.pdb
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\obj\Debug\Kursova17.csproj.AssemblyReference.cache
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\obj\Debug\Kursova17.Form1.resources
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\obj\Debug\Kursova17.csproj.GenerateResource.cache
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\obj\Debug\Kursova17.csproj.CoreCompileInputs.cache
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\obj\Debug\Kursova17.exe
+C:\!учеба\2курс\Прога Net Framework\Kursova17_Code\Kursova17\obj\Debug\Kursova17.pdb
